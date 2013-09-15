@@ -1,0 +1,505 @@
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 28
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 36
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 42
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 13
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 14
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 16
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 20
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 242
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 244
+[22-Sep-2010 16:58:43] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 263
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 28
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 36
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 42
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 13
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 14
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 16
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 20
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 242
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 244
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 263
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 28
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 36
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 42
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 13
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 14
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 16
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 20
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 242
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 244
+[22-Sep-2010 16:58:44] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 263
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 28
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 36
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 42
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 13
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 14
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 16
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 20
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 242
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 244
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 263
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 28
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 36
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/capcalera_ca.inc on line 42
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 13
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 14
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 16
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/missio.php on line 20
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'SERVILO_SERVER' (1) in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 2
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inc/conexio.php on line 3
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 242
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 244
+[22-Sep-2010 16:58:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/index.php on line 263
+[10-Oct-2010 12:09:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:09:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:09:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:09:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:09:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:09:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:09:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:09:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:09:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:09:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:09:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:09:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:09:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:09:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:09:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:09:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:09:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:09:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:09:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:09:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:09:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:09:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:09:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:09:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:10:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:10:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:10:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:11:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:11:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:11:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:12:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:12:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:12:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:13:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:13:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:13:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[10-Oct-2010 12:14:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 168
+[10-Oct-2010 12:14:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 207
+[10-Oct-2010 12:14:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/articles.php on line 239
+[12-Oct-2010 14:56:38] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0
+[24-Apr-2011 12:50:02] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[24-Apr-2011 12:50:03] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[24-Apr-2011 12:50:04] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[29-Apr-2011 15:24:29] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[29-Apr-2011 15:24:30] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[04-May-2011 15:48:23] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[10-May-2011 04:41:57] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 04:34:29] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 04:34:29] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 04:34:30] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 04:34:30] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 05:27:09] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 05:27:09] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 05:27:10] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 05:27:10] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 09:00:45] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 09:00:45] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 09:00:46] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 09:00:46] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 11:27:29] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 11:27:29] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 11:27:30] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 11:27:30] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 11:48:04] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 11:48:04] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 11:48:14] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 11:48:14] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 12:21:48] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 12:21:48] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 12:21:49] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 12:21:49] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 12:54:04] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 12:54:04] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 12:55:05] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 12:55:05] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 20:02:05] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 20:02:05] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[23-Jun-2011 20:02:06] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[23-Jun-2011 20:02:06] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[24-Jun-2011 00:06:34] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[24-Jun-2011 00:06:34] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20
+[24-Jun-2011 00:06:35] PHP Warning:  Header may not contain more than a single header, new line detected. in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 16
+[24-Jun-2011 00:06:35] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/nefeman7/public_html/joan/e-vendejo.mooo.com/inserta_comentaris.php on line 20

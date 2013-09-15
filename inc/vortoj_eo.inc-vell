@@ -1,0 +1,45 @@
+<?php
+//MENU PRINCIPAL
+$botiga = "vendejo"; //o libroservo???
+$cistella = "sako"; //la cistella s'ha de dir "sako"???
+$formulari = "formularo";
+
+
+//PAGINA: BOTIGA
+$categoria = "Kategorio";
+$preu_total = "Totala prezo";
+$afegir_a_cistella = "Aldoni en la sako";
+$selecciona_una_categoria = "Selektu kategorion...";
+$productes = "Produktoj";
+
+$vols_afegir = "Cxu vi volas aldoni";
+$a_la_cistella = "en la sako";
+
+
+//PAGINA: ACXETAJXOJN
+$producte = "Produkto";
+$quants = "Kiom da";
+$euro_la_unitat = "&euro; unu produkto";
+$quantitat_total_compra = "Totala kvanto de la a&#265;eta&#309;o";
+
+//no fiqueu codi HTML perque va dins d'un script JAVASCRIPT i no es pot
+$vols_esborrar = "Cxu vi volas forvisxi cxiujn produktojn de la sako?";
+
+$la_teua_cistella = "Via sako";
+$descripcio_la_teua_cistella = "Kiam vi selektos diversajn produktojn en la pa&#285;o de la vendejo, ili tuj aperos en tiu-&#265;i fako. Vi povas aldoni tiom da produktoj ol vi volos kaj sekve vi &#285;in povos forvi&#349;i per la rugxa kruco ke aperas en la dekstra flanko.</p><p>Se vi jam volas mendi viajn produktojn, iru al la 'formularo' kaj pelnumu &#265;iujn la datumojn por ke ni sendu la produktojn al via domo</p>";
+$esborrar_tots_prod = "Forvi&#349;u &#265;iujn produktojn";
+
+
+//PAGINA: FORMULARI
+$compra_individual = "Compra individual";
+$soc_membre_KEA = "Mi estas membro de KEA";
+$nom_complet = "Plena nomo";
+$adreca = "Adre&#349;o";
+$ciutat_i_cp = "Urbo kaj kodo";
+$pais = "Lando";
+$correu = "E-po&#349;to";
+$dades_bancaries = "Bank-datumoj";
+$enviar_dades = "Sendu datumojn";
+$netejar = "Netejar";
+
+?>

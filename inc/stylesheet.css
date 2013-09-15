@@ -1,0 +1,361 @@
+html {
+margin:0;
+padding:0;
+}
+
+body {
+color:#409388;
+font-family:100% "Lucida Grande", Verdana, Arial, Sans-Serif;
+text-align:center;
+font-size:8pt;
+margin:0;
+padding:0;
+background: #459181;
+background-image:url(../imatges/fons_container.gif); 
+background-position: center;
+background-repeat: repeat-y;
+
+}
+
+#taulaPrincipal tr {
+background:#fff;
+hover:expression(this.onmouseover=new Function("this.style.background='#e2f6ec';"),this.onmouseout=new Function("this.style.background='#FFF';"));
+}
+
+#taulaPrincipal tr:hover {
+background:#e2f6ec;
+}
+
+
+#taulaPrincipalXicoteta tr {
+background:#fff;
+hover:expression(this.onmouseover=new Function("this.style.background='#e2f6ec';"),this.onmouseout=new Function("this.style.background='#FFF';"));
+}
+
+#taulaPrincipalXicoteta tr:hover {
+background:#d1e8db;
+}
+
+#taulaEnviamentsVerd table{
+background: #77c3a5 url(imatges/fons_env_verd.jpg) bottom right no-repeat;
+}
+
+#taulaEnviamentsRoig table{
+background: #f88585 url(imatges/fons_env_roig.jpg) bottom right no-repeat;
+}
+
+
+#nav {
+float:right;
+margin-top:16px;
+width:100px;
+margin-right:40px;
+background-color:transparent;
+color:#555;
+}
+
+h1 {
+font-family:"Trebuchet MS",arial,sans-serif;
+font-size:1.7em;
+font-weight:400;
+margin:20px 0 0;
+}
+
+h3 {
+color:#000;
+font-family:geneva,arial,sans-serif;
+text-transform:uppercase;
+word-spacing:4px;
+letter-spacing:3px;
+font-size:0.8em;
+font-weight:700;
+margin:0;
+}
+
+h2 {
+font-family:"Lucida Grande","Lucida Sans Unicode",arial,sans-serif;
+font-size:1.4em;
+margin:40px 0 0;
+}
+
+h2 span {
+line-height:2em;
+margin:30px 5px 5px 30px;
+}
+
+a {
+text-decoration:none;
+color:#3f9287;
+border-bottom:1px solid #dbe6be;
+}
+
+a:hover {
+color:#7bc7a5;
+border-bottom:1px solid;
+}
+
+#border {
+width:550px;
+border-color:#fff;
+border-style:solid;
+border-width:0 1px;
+margin:0 auto;
+padding:0;
+}
+
+#container {
+font-size:8pt;
+text-align:left;
+background-color:#fff;
+border-color:#686923;
+border-style:solid;
+border-width:0 1px;
+margin:0 auto;
+padding:1px;
+}
+
+#comentaris {
+font-size:8pt;
+text-align:left;
+margin:0 auto;
+padding:1px;
+}
+
+#header {
+width:99%;
+border-bottom:0 solid #e1efa2;
+margin:0;
+}
+
+#header h3 {
+position:relative;
+top:-15px;
+left:30px;
+}
+
+#header ul {
+margin:8px 0 0;
+padding:0;
+}
+
+#header li {
+display:inline;
+list-style:none;
+margin:0;
+padding:0;
+}
+
+#mission .box {
+background:#FFDBA1;
+border:1px solid #FFB643;
+color:#4E3000;
+}
+
+#mission .box .w1 {
+background-image:url(imatges/block2-tl.png);
+background-position:0 0;
+background-repeat:no-repeat;
+position:relative;
+top:-1px;
+left:-1px;
+}
+
+#mission .box .w2 {
+background-image:url(imatges/block2-tr.png);
+background-position:100% 0;
+background-repeat:no-repeat;
+position:relative;
+left:2px;
+}
+
+#mission .box .w3 {
+background-image:url(imatges/block2-br.png);
+background-position:100% 100%;
+background-repeat:no-repeat;
+position:relative;
+top:2px;
+}
+
+#mission .box .w4 {
+background-image:url(imatges/block2-bl.png);
+background-position:0 100%;
+background-repeat:no-repeat;
+position:relative;
+left:-2px;
+_height:10px;
+padding:1px;
+}
+
+#footer {
+text-align:center;
+font-size:0.8em;
+letter-spacing:2px;
+margin:225px auto 0;
+padding:0;
+}
+
+#footer span {
+border-style:solid;
+border-width:1px;
+padding:1px 5px;
+}
+
+#footer a {
+border:0;
+}
+
+div#menucentral {
+border-top:solid 1px #FFF;
+height:22px; 
+color: #fff;
+font-size:8pt;
+}
+
+div#menucentral a {
+text-decoration:none;
+color:#3f9287;
+border-bottom:1px solid #dbe6be;
+}
+
+div#menucentral2 {
+border-top:solid 1px #FFF;
+background-image:url(http://sakeos.net/~jk/tendeta/imatges/repositori/fons.png);
+background-repeat: repeat;
+height:21px;
+background-color:#fff;
+font-size:8pt;
+}
+
+
+
+div#navcontainer {
+background-color:#7cc4a0;
+border-top:solid 1px #FFF;
+border-bottom:none;
+}
+
+div#navcontainer ul {
+font-family:Arial, Helvetica, sans-serif;
+font-weight:700;
+color:#FFF;
+text-align:left;
+padding-bottom:5px;
+padding-top:5px;
+margin:0;
+}
+
+div#navcontainer ul li {
+display:inline;
+margin-left:0;
+}
+
+div#navcontainer ul li a {
+color:#FFF;
+text-decoration:none;
+border-right:1px solid #fff;
+padding:5px 5px 5px 10px;
+}
+
+div#navcontainer ul li a:hover {
+background-color:#3f9287;
+border-bottom:none;
+color:#FFF;
+}
+
+#active a {
+border-left:0 solid #fff;
+}
+
+.container {
+clear:both;
+text-decoration:none;
+}
+
+* html .container {
+display:inline-block;
+}
+
+input,label,textarea,select {
+font-size:8pt;
+margin:1px 0;
+}
+
+#commentform textarea {
+font:8pt 'Lucida Grande', Verdana, Arial, Sans-Serif;
+}
+
+input.text,textarea.text {
+background:#FFF;
+font-size:8pt;
+border:1px solid #369;
+color:#444;
+}
+
+wikihead {
+position:absolute;
+top:0;
+right:0;
+font-size:smaller;
+text-align:right;
+}
+
+#wikihead input {
+font-size:normal;
+}
+
+#wikihead {
+font-size:normal;
+text-align:right;
+}
+
+#wikibody {
+padding-bottom:1em;
+padding-top:0.5em;
+}
+
+#wikititle {
+padding-left:10px;
+vertical-align:top;
+}
+
+#wikicmds {
+font-size:smaller;
+text-align:right;
+vertical-align:top;
+}
+
+#wikicmds a {
+display:block;
+}
+
+#wikifoot {
+clear:both;
+border-top:2px solid #ccc;
+font-size:smaller;
+}
+
+#peu {
+font-size:8pt;
+font-family:arial;
+}
+
+p,#wikitext {
+font-size:8pt;
+padding-left:5px;
+padding-right:5px;
+margin-top:0.5em;
+}
+
+a:active,a:visited {
+text-decoration:none;
+mcolor:#028c01;
+border-bottom:1px solid #dbe6be;
+}
+
+#header a,#content h2 a,#menucentral a,#menucentral2 a,div#a {
+border-bottom:none;
+}
+
+form,#wikihead form {
+margin:0;
+}

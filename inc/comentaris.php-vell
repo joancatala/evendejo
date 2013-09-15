@@ -1,0 +1,4 @@
+<?php
+$db_comentaris=mysql_connect("esperanto.cat","iladmin","dalmau");
+mysql_select_db("botiga",$db_comentaris);
+?>

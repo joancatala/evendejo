@@ -1,0 +1,69 @@
+@media aural {
+.tabset_content,.tabset_label {
+display:block;
+}
+}
+
+.tabset_tabs {
+list-style-type:none;
+position:relative;
+z-index:2;
+white-space:nowrap;
+margin:0;
+padding:0;
+}
+
+.tabset_tabs li {
+display:inline;
+font-size:10pt;
+margin:0;
+padding:0;
+}
+
+.tabset_tabs a {
+color:#000 !important;
+background-color:#c7ebdb !important;
+border:1px solid #77c3a5;
+text-decoration:none;
+border-left-width:1px;
+border-bottom:1px;
+padding:0 0.6em;
+}
+
+.tabset_tabs a:hover {
+color:#000 !important;
+background-color:#eff !important;
+border-bottom:#000;
+}
+
+.tabset_tabs a.active {
+color:#000 !important;
+background-color:#FFF !important;
+border-left-width:1px;
+cursor:default;
+border-bottom:#77c3a5;
+padding-top:1px;
+padding-bottom:1px;
+border-color:#77c3a5;
+}
+
+.tabset_tabs li.firstchild a {
+border-left-width:1px;
+}
+
+.tabset_content {
+border:1px solid #77c3a5;
+background-color:#FFF;
+position:relative;
+z-index:1;
+display:none;
+padding:0.5em 1em;
+}
+
+.tabset_label {
+display:none;
+}
+
+.tabset_content_active {
+display:block;
+}
