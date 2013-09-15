@@ -7,7 +7,8 @@ Do, finfine mi decidis komenci tian EMS-on per simpleco, utileco kaj facileco, k
 kunlaboro
 ========
 
-Bonvenon, cxiuj.
+Bonvenon, cxiuj. 
+Komencu per "git clone http://github.com/joancatala/evendejo.git"
 
 kontakto
 ========
